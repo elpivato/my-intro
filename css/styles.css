@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #241663;
+  color: #40514e;
+}
+
+h1 {
+  font-family: 'Lobster Two', cursive;
+  font-size:6.5rem;
+  margin: 50px auto 0 auto;
+  color: #241663;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+  font-size: 2.5rem;
+  margin-top: 20px;
+  color: #a72693;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #a72693;
+}
+
+a {
+  color: #a72693;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #241663;
+}
+
+p{
+  line-height: 2;
+}
+
+hr {
+  border: dotted #40514e 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+.intro1{
+  color: #f7be16;
+}
+
+.top-container {
+  background-color: #160f30;
+  position: relative;
+  padding-top: 20px;
+}
+
+.middle-container{
+  margin: 50px 0;
+}
+
+.bottom-container{
+  background-color: #eae7af;
+  padding: 20px;
+}
+
+.contact-me{
+  width: 40%;
+  margin: 40px auto;
+}
+
+.intro{
+  width:30%;
+  margin: auto;
+}
+
+.copyright {
+  color: #241663;
+  font-size:0.75rem;
+  padding: 20px 0;
+}
+
+.contact-2 {
+  margin-bottom: 50px;
+}
+
+.butn {
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: 'Roboto', sans-serif;
+  color: #eae7af;
+  font-size: 14px;
+  background: #160f30;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #f7be16;
+  text-decoration: none;
+}
+
+.skill-1{
+  height: 150px;
+  border-radius: 100%;
+  background-color: #f7be16;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-2{
+  height: 150px;
+  border-radius: 100%;
+  background-color: #f7be16;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  width:50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.profile-pic{
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+}
